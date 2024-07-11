@@ -26,12 +26,18 @@ BrunoAlpezdev@github
 <section align="center">
   
   ## 🛠️ My Favorite Tools
+
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=windows"/><p>-></p><img src="https://skillicons.dev/icons?i=vscode" />
+    </a>
+  </p>
   
   ### 👨‍💻 Programming Languages
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,py,kotlin" />
     </a>
   </p>
   
@@ -47,7 +53,7 @@ BrunoAlpezdev@github
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+      <img src="https://skillicons.dev/icons?i=sqlite,gcp,vercel" />
     </a>
   </p>
   
@@ -62,7 +68,6 @@ BrunoAlpezdev@github
   ### 👨🏽‍💻 Workspace
   
   TODO p,a
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
   ## GitHub Stats
   |                                                                     Bueurro's Stats                                                                     |                                                                     Bueurro's Stats                                                                     |
