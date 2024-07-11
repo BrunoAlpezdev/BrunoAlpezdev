@@ -73,9 +73,11 @@ BrunoAlpezdev@github
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Bueurro's github stats](https://github-readme-stats.vercel.app/api?username=BrunoAlpezdev&show_icons=true&theme=algolia)              | ![Bueurro's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrunoAlpezdev&theme=algolia)                    |  
 
-|                                                                     BrunoAlpezdev's Top Langs                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlpezdev&langs_count=8&theme=algolia&layout=compact) |
-</section>
+## Bueurro's Top Langs
 
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlpezdev&langs_count=8&theme=algolia&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlpezdev&langs_count=8&theme=algolia&layout=compact" alt="Top Langs"/>
+  </a>
+</p>
 
