@@ -67,18 +67,15 @@ BrunoAlpezdev@github
       <img src="https://skillicons.dev/icons?i=supabase,astro,vercel,tailwind,react,nextjs,vite,vitest"/>
     </a>
   </p>
-  
-  
-  ## GitHub Stats
-  |                                                                     Bueurro's Stats                                                                     |                                                                     Bueurro's Stats                                                                     |
-  |:------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-  | ![Bueurro's github stats](https://github-readme-stats.vercel.app/api?username=BrunoAlpezdev&show_icons=true&theme=algolia)              | ![Bueurro's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrunoAlpezdev&theme=algolia)                    |  
-  
-  |                                                                     Bueurro's Top Langs                                                                     |
-  |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-  |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlpezdev&langs_count=8&theme=algolia&layout=compact) |  
-  
 
+  
+  |                                                                     BrunoAlpezdev's Stats                                                                     |                                                                     BrunoAlpezdev's Stats                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Bueurro's github stats](https://github-readme-stats.vercel.app/api?username=BrunoAlpezdev&show_icons=true&theme=algolia)              | ![Bueurro's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrunoAlpezdev&theme=algolia)                    |  
+
+|                                                                     BrunoAlpezdev's Top Langs                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAlpezdev&langs_count=8&theme=algolia&layout=compact) |
 </section>
 
 
