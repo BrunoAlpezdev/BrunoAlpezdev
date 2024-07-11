@@ -8,7 +8,7 @@ Hi, I'm bueurro!
   <a>Informatics/Software Engineer</a>
 </p>
 
-<img src="https://media1.tenor.com/m/ZQxFE3_yJ2YAAAAC/future-thinking.gif"></img>
+<img src="https://media1.tenor.com/m/kIZ5_VFKX-MAAAAd/guts-berserk.gif"></img>
 <hr>
 
 ```
