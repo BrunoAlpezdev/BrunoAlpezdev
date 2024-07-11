@@ -12,13 +12,12 @@ TODO img
 <hr>
 
 ```
-bueurro@github
+BrunoAlpezdev@github
 -------------------------
 💻 TODO
 📚 TODO
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: TODO
 🚩 TODO
 ```
@@ -63,6 +62,7 @@ bueurro@github
   ### 👨🏽‍💻 Workspace
   
   TODO p,a
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
   ## GitHub Stats
   |                                                                     Bueurro's Stats                                                                     |                                                                     Bueurro's Stats                                                                     |
