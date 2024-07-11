@@ -41,7 +41,7 @@ BrunoAlpezdev@github
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sklearn,tailwind,dotnet,django,angular,astro" />
+      <img src="https://skillicons.dev/icons?i=sklearn,dotnet,django,angular" />
     </a>
   </p>
   
@@ -49,7 +49,7 @@ BrunoAlpezdev@github
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sqlite,firebase,supabase,gcp,vercel" />
+      <img src="https://skillicons.dev/icons?i=sqlite,firebase,gcp" />
     </a>
   </p>
   
@@ -60,6 +60,15 @@ BrunoAlpezdev@github
       <img src="https://skillicons.dev/icons?i=windows,vscode,androidstudio,git"/>
     </a>
   </p>
+  
+  ### 🧠 Learning
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=supabase,astro,vercel,tailwind,react,nextjs"/>
+    </a>
+  </p>
+  
   
   ## GitHub Stats
   |                                                                     Bueurro's Stats                                                                     |                                                                     Bueurro's Stats                                                                     |
