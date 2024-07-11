@@ -5,7 +5,7 @@ Hi, I'm bueurro!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center" style="font-size: 24px;">
-  <a>Informatics/Computer Engineer</a>
+  <a>Informatics/Software Engineer</a>
 </p>
 
 TODO img
@@ -14,30 +14,29 @@ TODO img
 ```
 BrunoAlpezdev@github
 -------------------------
-💻 TODO
-📚 TODO
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌟 Main languages: TODO
-🚩 TODO
+💻 Hello! I am Bruno or BrunoAlpezdev.
+📚 I have sudied Informatics/Software Engineer at DuocUC.
+📝 My interest are mainly focused in Data Science, and Software such as web, desktop and mobile apps. I more than happy if I do an integration of both :D.
+📝 Currently expanding my machine learning knoledge.
+🌟 Main languages: python, C#, javascript(type), kotlin.
 ```
 <hr>
 
 <section align="center">
   
-  ## 🛠️ My Favorite Tools
+  ## 🛠️ My Favorite Tools 🛠️
 
   
   
-  ### 👨‍💻 Programming Languages
+  ### 👨‍💻 Programming Languages 🔤
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,py,kotlin" />
+      <img src="https://skillicons.dev/icons?i=py,cs,js,ts,kotlin,html,css" />
     </a>
   </p>
   
-  ### 🧰 Frameworks and Libraries
+  ### 🧰 Frameworks and Libraries 📚
   
   <p align="center">
     <a href="https://skillicons.dev">
@@ -45,7 +44,7 @@ BrunoAlpezdev@github
     </a>
   </p>
   
-  ### 🗄️ Databases and Cloud Hosting
+  ### 🗄️ Databases and Cloud Hosting ☁️
   
   <p align="center">
     <a href="https://skillicons.dev">
@@ -53,19 +52,19 @@ BrunoAlpezdev@github
     </a>
   </p>
   
-  ### 💻 Software and Tools
+  ### 💻 Software and Tools 🧰
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=windows,vscode,androidstudio,git"/>
+      <img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,androidstudio,git"/>
     </a>
   </p>
   
-  ### 🧠 Learning
+  ### 🧠 Watchlist/Learning 👀
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=supabase,astro,vercel,tailwind,react,nextjs"/>
+      <img src="https://skillicons.dev/icons?i=supabase,astro,vercel,tailwind,react,nextjs,vite,vitest"/>
     </a>
   </p>
   
