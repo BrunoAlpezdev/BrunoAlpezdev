@@ -40,7 +40,7 @@ BrunoAlpezdev@github
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sklearn,dotnet,django,angular" />
+      <img src="https://skillicons.dev/icons?i=nextjs,angular,django,react,tailwind,sklearn,dotnet" />
     </a>
   </p>
   
@@ -48,7 +48,7 @@ BrunoAlpezdev@github
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sqlite,firebase,gcp" />
+      <img src="https://skillicons.dev/icons?i=sqlite,firebase,gcp,vercel" />
     </a>
   </p>
   
@@ -56,7 +56,7 @@ BrunoAlpezdev@github
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,androidstudio,git"/>
+      <img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,androidstudio,git,vite"/>
     </a>
   </p>
   
@@ -64,7 +64,7 @@ BrunoAlpezdev@github
   
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=supabase,astro,vercel,tailwind,react,nextjs,vite,vitest"/>
+      <img src="https://skillicons.dev/icons?i=supabase,astro,vitest"/>
     </a>
   </p>
 
